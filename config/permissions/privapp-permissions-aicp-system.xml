@@ -47,4 +47,7 @@
         <permission name="android.permission.MODIFY_AUDIO_ROUTING"/>
         <permission name="android.permission.RESET_BATTERY_STATS"/>
     </privapp-permissions>
+    <privapp-permissions package="com.android.screenshot">
+        <permission name="android.permission.READ_FRAME_BUFFER"/>
+    </privapp-permissions>
 </permissions>
